@@ -18,5 +18,4 @@ Here are some ideas to get you started:
   <a href="https://github.com/Pratima4003"><img src="./Topper.svg"></a>
 </p>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=980&color=F7CA1F&vCenter=true&width=435&lines=Perfect%E2%9C%A8;Radiant%F0%9F%A4%A9;Achiever%F0%9F%8E%AF;Thoughtful%F0%9F%93%9A;Intelligent%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Magnanimous%F0%9F%98%8A;Ambitious%F0%9F%98%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=900&color=F7CA1F&center=true&vCenter=true&width=435&lines=Perfect%E2%9C%A8;Radiant%F0%9F%A4%A9;Achiever%F0%9F%8E%AF;Thoughtful%F0%9F%93%9A;Intelligent%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Magnanimous%F0%9F%98%8A;Ambitious%F0%9F%98%8E)](https://git.io/typing-svg)
