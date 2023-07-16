@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 </p>
 
 <center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=4000&pause=900&color=F7CA1F&center=true&vCenter=true&width=1000&lines=Perfect%E2%9C%A8;Radiant%F0%9F%A4%A9;Achiever%F0%9F%8E%AF;Thoughtful%F0%9F%93%9A;Intelligent%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Magnanimous%F0%9F%98%8A;Ambitious%F0%9F%98%8E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=4000&pause=900&color=F7CA1F&center=true&vCenter=true&width=1000&lines=Perfect%E2%9C%A8;Radiant%F0%9F%A4%A9;Achiever%F0%9F%8E%AF;Thoughtful%F0%9F%93%9A;Intelligent%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Magnanimous%F0%9F%98%8A;Ambitious%F0%9F%98%8E" alt="Typing SVG" /></a>
 </center>
